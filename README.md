@@ -22,4 +22,4 @@
 3. 충돌 해결
 4. git rebase —continue
 5. git pull origin/feature~
-6. pull request 작성
+6. pull reques 작성!!
