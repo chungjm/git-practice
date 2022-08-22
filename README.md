@@ -16,3 +16,10 @@
 - 나의 코드
 - 너의 코드
 - important
+
+1. git pull origin main
+2. git config pull.rebase true
+3. 충돌 해결
+4. git rebase —continue
+5. git pull origin/feature~
+6. pull request 작성 
